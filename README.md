@@ -1,7 +1,7 @@
 # Brick-Pavement-Collection
 # OpenSCAD Brick Pavement Collection
 
-A collection of parametric OpenSCAD models for creating realistic brick pavement patterns. Perfect for architectural visualization, 3D printing, model railways, miniatures, and design projects.
+A collection of parametric OpenSCAD models for creating brick pavement patterns.  For, 3D printing, model railways, miniatures, and design projects.
 
 ## Models Included
 
